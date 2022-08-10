@@ -30,6 +30,7 @@ export const pathMap = {
   login: '登录',
   dashboard: '大盘数据',
   guest: '会员管理',
+  addsetmeal: '套餐管理',
   account: '修改账户'
 
 }

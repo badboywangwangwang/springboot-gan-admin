@@ -28,7 +28,10 @@
               <span>模块管理</span>
             </template>
             <el-menu-item-group>
+              <el-menu-item index="/category"><i class="el-icon-menu" />分类管理</el-menu-item>
+              <el-menu-item index="/addsetmeal"><i class="el-icon-user-solid" />套餐管理</el-menu-item>
               <el-menu-item index="/guest"><i class="el-icon-user-solid" />会员管理</el-menu-item>
+
             </el-menu-item-group>
           </el-submenu>
           <el-submenu index="3">
